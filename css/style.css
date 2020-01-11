@@ -2348,6 +2348,11 @@
     left: -30px;
 }
 
+#dark .bkr003 .services-tab-01 .tab-buttons .tab-btn.active-btn {
+    color: #000;
+    background-color: #fff;
+}
+
 
 /*portfolio-04*/
 
